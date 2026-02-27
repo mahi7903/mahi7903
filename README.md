@@ -4,7 +4,7 @@ First Class BSc Computer Science Graduate (1:1) | Graduate Software Engineer
 </p>
 
 <p align="center">
-Backend Engineering • Cloud Architecture • Secure Systems • DevOps Foundations
+ • Graduate Software Engineer • Junior Software Developer • Backend Software Developer
 </p>
 
 ---
