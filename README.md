@@ -53,6 +53,16 @@ Real-world care management system built to securely record patient data and stre
 • Applied software engineering lifecycle practices  
 
 ---
+## Featured Systems Project
+
+Sensor-driven autonomous robot control in CoppeliaSim (V-REP) using Python.
+
+• Border/line detection using simulated sensors  
+• Reactive navigation toward a target based on sensor feedback  
+• Control logic tuning (PID-inspired corrections)  
+• Remote API integration with simulation scenes and reproducible demos  
+
+---
 
 ## Engineering Profile
 
