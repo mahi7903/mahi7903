@@ -65,14 +65,15 @@ Real-world care management system built to securely record patient data and stre
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi7903&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahi7903&show_icons=true&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi7903&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi7903&layout=compact&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ## Professional Goals (2026)
