@@ -63,15 +63,17 @@ Real-world care management system built to securely record patient data and stre
 
 ---
 
-## GitHub Statistics
+## Engineering Profile
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi7903&show_icons=true&hide_border=true" height="165"/>
-</p>
+Problem-solving driven Software Engineer with strong communication and collaborative abilities.  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi7903&layout=compact&hide_border=true" height="165"/>
-</p>
+Focused on building secure, scalable backend systems with a production-ready mindset.  
+
+Primary direction: Software Engineering  
+Secondary focus: DevOps Engineering  
+Extended interest: Cloud Infrastructure & scalable system design  
+
+Committed to continuous technical growth and high-performance engineering standards.
 ---
 
 ## Professional Goals (2026)
