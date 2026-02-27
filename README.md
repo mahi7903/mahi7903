@@ -65,13 +65,9 @@ Real-world care management system built to securely record patient data and stre
 
 ## Engineering Profile
 
-Problem-solving driven Software Engineer with strong communication and collaborative abilities.  
+Problem-solving driven Software Engineer with strong communication and collaborative abilities.
 
-Focused on building secure, scalable backend systems with a production-ready mindset.  
-
-Primary direction: Software Engineering  
-Secondary focus: DevOps Engineering  
-Extended interest: Cloud Infrastructure & scalable system design  
+Focused on designing secure, scalable backend systems with cloud-ready architecture and DevOps awareness.
 
 Committed to continuous technical growth and high-performance engineering standards.
 ---
