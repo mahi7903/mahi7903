@@ -65,8 +65,6 @@ Real-world care management system built to securely record patient data and stre
 
 ## GitHub Statistics
 
-## GitHub Statistics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahi7903&show_icons=true&hide_border=true" height="165"/>
 </p>
