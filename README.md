@@ -54,15 +54,6 @@ Real-world care management system built to securely record patient data and stre
 
 ---
 
-## Engineering Direction
-
-• Building production-ready backend systems  
-• Strengthening algorithmic problem solving  
-• Advancing cloud & DevOps engineering skills  
-• Preparing for large-scale distributed system design  
-
----
-
 ## Engineering Profile
 
 Problem-solving driven Software Engineer with strong communication and collaborative abilities.
